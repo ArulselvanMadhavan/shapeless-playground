@@ -1,8 +1,6 @@
 package com.arulselvan
-
-import cats.instances.string._
-import cats.syntax.semigroup._
+import shapeless.playground.MergerExample
 
 object Main extends App {
-  println("Hello " |+| "Cats!")
+  
 }
